@@ -1,4 +1,5 @@
 Django==2.1.8
 PyMySQL==0.9.3
+python-dotenv==0.10.3
 pytz==2019.3
 six==1.13.0
